@@ -1,0 +1,24 @@
+# Beast 3.0 External Relations & API Gateway Division
+
+The External Relations & API Gateway Division serves as the secure communication bridge between the Beast 3.0 DAO ecosystem and external state agencies, oracle networks, and third-party services.
+
+## Mission
+
+Ensure secure, authenticated, and verified data exchange with external entities while protecting internal control planes from malicious ingress.
+
+## Core Responsibilities
+
+- Secure Webhook Management & Signature Verification
+- External State Agency Data Cross-Streaming
+- Third-Party Oracle Integration & Data Ingestion
+- API Rate Limiting & Gateway Security
+
+## Connected Systems
+
+- Judicial & Audit Division (`div-03-judicial`)
+- Cyber Security & Defense Division (`div-07-security-firewall`)
+- System Orchestrator (`div-21-system-orchestrator`)
+
+## Status
+
+Development
