@@ -1,0 +1,25 @@
+div-18-external-relations/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── webhook-specs.md
+│   ├── oracle-integration.md
+│   └── security-gateway.md
+│
+├── src/
+│   ├── core/
+│   │   ├── WebhookGateway.ts
+│   │   └── ExternalOracleClient.ts
+│   │
+│   ├── api/
+│   │   └── external.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
